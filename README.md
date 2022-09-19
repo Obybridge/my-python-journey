@@ -1,9 +1,10 @@
 # my-python-journey
 
 This is the first time I'm coding in python
+
 *First class*
 
-##First page
+##First page#
 
 Learn 'Dash' along the way
 
